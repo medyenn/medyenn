@@ -21,13 +21,11 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-<p>
+<div align="center">
+<ul style="text-align:left; display:inline-block;">
+  🎓 Data Science in Aviation
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• ✈️📈Data Science in Airlines Industry<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• 💻 Passionate about <strong>Aviation, Analytics, Programming, and Artificial Intelligence</strong><br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• 🚀 Currently building <strong>LLM</strong> and terminal-based projects
-
-</p>
+</div>
 
 <br><br>
 
