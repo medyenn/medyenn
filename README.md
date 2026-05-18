@@ -21,10 +21,14 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 Student at **1337 School** (part of the **42 Network**)
-- 💻 Passionate about **Python, C, and Artificial Intelligence**
-- 🧠 Focused on **algorithms**, **clean code**, and software engineering
-- 🚀 Currently building **LLM** and terminal-based projects
+<p>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• ✈️📈Data Science in Airlines Industry<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• 💻 Passionate about <strong>Aviation, Analytics, Programming, and Artificial Intelligence</strong><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;• 🚀 Currently building <strong>LLM</strong> and terminal-based projects
+
+</p>
+
 <br><br>
 
 <div align="center">
