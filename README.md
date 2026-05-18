@@ -17,7 +17,7 @@
 
 </div>
 
----
+<br><br>
 
 ## 👨‍💻 About Me
 
@@ -26,7 +26,7 @@
 - 🧠 Focused on **algorithms**, **clean code**, and software engineering
 - 🚀 Currently building **LLM** and terminal-based projects
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,vscode,docker,flask" />
 </div>
 
----
 
 ## 📚 Currently Learning
 
@@ -45,7 +44,6 @@
 <img src="https://img.shields.io/badge/LLMs-D3869B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Programming-83A598?style=for-the-badge" />
 
----
 
 
  ## Stats
@@ -53,7 +51,6 @@
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/medyenn?cardType=github&theme=blueberry&fontFamily=Antic&preferLogin=true)](https://git.io/awesome-stats-card)
 
----
 
 ##  Monthly Activity
 
@@ -63,7 +60,6 @@
   <small> Last 30 days Activity </small>
 </p>
 
----
 
 ##  Education
 
@@ -79,7 +75,6 @@
 
 </div>
 
----
 
 ##  Motto
 
@@ -89,7 +84,6 @@
 
 </div>
 
----
 
 ##  Let's Connect
 
@@ -105,7 +99,6 @@
 
 </div>
 
----
 
 <div align="center">
 
