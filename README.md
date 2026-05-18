@@ -18,15 +18,13 @@
 </div>
 
 <br><br>
-<div align="center">
 
-## 👨‍💻 About Me
----
+<h2 align="center">👨‍💻 About Me</h2>
+
 - 🎓 Student at **1337 School** (part of the **42 Network**)
 - 💻 Passionate about **Python, C, and Artificial Intelligence**
 - 🧠 Focused on **algorithms**, **clean code**, and software engineering
 - 🚀 Currently building **LLM** and terminal-based projects
-----
 <br><br>
 
 <div align="center">
