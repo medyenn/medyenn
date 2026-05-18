@@ -21,13 +21,12 @@
 <div align="center">
 
 ## 👨‍💻 About Me
-
-
+---
 - 🎓 Student at **1337 School** (part of the **42 Network**)
 - 💻 Passionate about **Python, C, and Artificial Intelligence**
 - 🧠 Focused on **algorithms**, **clean code**, and software engineering
 - 🚀 Currently building **LLM** and terminal-based projects
-
+----
 <br><br>
 
 <div align="center">
@@ -114,7 +113,7 @@
 
 </div>
 
-<div align="center">
+<br><br>
 
 <div align="center">
 
