@@ -65,13 +65,11 @@
 ## 📈 Weekly Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mennih&theme=gruvbox&hide_border=true"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medyenn&theme=react-dark&hide_border=false&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
+  <br>
+  <small>📆 Weekly Activity </small>
 </p>
 
----
 ---
 
 ## 🎓 Education
