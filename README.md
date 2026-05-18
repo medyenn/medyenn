@@ -55,12 +55,12 @@
 
 ---
 
-##  Weekly Activity
+##  Monthly Activity
 
 <p align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=medyenn&theme=react-dark&hide_border=false&bg_color=0D1117&color=14B8A6&line=00E5FF&point=C084FC&area=true&area_color=00E5FF" alt="Weekly Contribution Graph" />
-  <small> Weekly Activity </small>
+  <small> Last 30 days Activity </small>
 </p>
 
 ---
