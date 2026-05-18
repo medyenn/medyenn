@@ -49,27 +49,29 @@
 </div>
 
 ---
-
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mennih&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mennih&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/mennih?cardType=level&theme=gruvbox&preferLogin=true"
+      alt="GitHub Stats"
+    />
+  </a>
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Weekly Activity
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mennih&theme=gruvbox&hide_border=true"
+    alt="Contribution Graph"
+  />
+</p>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mennih&theme=tokyonight" />
-
-</div>
-
+---
 ---
 
 ## 🎓 Education
