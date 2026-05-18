@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://badge.mediaplus.ma/darkgray/mennih" alt="1337 Badge" />
+[![mennih's 42 stats](https://badge.mediaplus.ma/binary/mennih)](https://github.com/oakoudad/badge42)
 
 <br><br>
 
@@ -108,20 +108,22 @@
 
 ---
 
-  
-```text
-                                          __|__
-                                          \___/
-                                           | |
-                                           | |
-                                          _|_|______________
-                                                  /|\ 
-                                                */ | \*
-                                                / -+- \
-                                            ---o--(_)--o---
-                                              /  0 " 0  \
-                                            */     |     \*
-                                            /      |      \
-                                          */       |       \*
-```
+<div align="center">
+
+<pre>
+                __|__
+                \___/
+                 | |
+                 | |
+                _|_|______________
+                        /|\
+                      */ | \*
+                      / -+- \
+                  ---o--(_)--o---
+                    /  0 " 0  \
+                  */     |     \*
+                  /      |      \
+                */       |       \*
+</pre>
+
 </div>
