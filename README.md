@@ -22,11 +22,13 @@
 
 ## 👨‍💻 About Me
 
+
 - 🎓 Student at **1337 School** (part of the **42 Network**)
 - 💻 Passionate about **Python, C, and Artificial Intelligence**
 - 🧠 Focused on **algorithms**, **clean code**, and software engineering
 - 🚀 Currently building **LLM** and terminal-based projects
 
+<br><br>
 
 <div align="center">
 
@@ -35,6 +37,8 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,vscode,docker,flask" />
 </div>
+
+<br><br>
 
 <div align="center">
 
@@ -47,6 +51,7 @@
 <img src="https://img.shields.io/badge/LLMs-D3869B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Programming-83A598?style=for-the-badge" />
 
+<br><br>
 
 <div align="center">
 
@@ -54,6 +59,8 @@
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/medyenn?cardType=github&theme=blueberry&fontFamily=Antic&preferLogin=true)](https://git.io/awesome-stats-card)
+
+<br><br>
 
 <div align="center">
 
@@ -64,6 +71,8 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=medyenn&theme=react-dark&hide_border=false&bg_color=0D1117&color=14B8A6&line=00E5FF&point=C084FC&area=true&area_color=00E5FF" alt="Weekly Contribution Graph" />
   <small> Last 30 days Activity </small>
 </p>
+
+<br><br>
 
 <div align="center">
 
@@ -81,22 +90,20 @@
 
 </div>
 
+<br><br>
+
 <div align="center">
 
 ##  Motto
-
-<div align="center">
-
 > **"Learn deeply. Build cleanly. Ship confidently."** 🚀
 
 </div>
 
+<br><br>
+
 <div align="center">
 
 ##  Let's Connect
-
-<div align="center">
-
 <a href="mailto:your.email@example.com">
   <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -107,6 +114,7 @@
 
 </div>
 
+<div align="center">
 
 <div align="center">
 
