@@ -46,33 +46,27 @@
 <img src="https://img.shields.io/badge/LLMs-D3869B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Programming-83A598?style=for-the-badge" />
 
-</div>
+---
+
+
+ ## Stats
+<div align="center">
+  
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/medyenn?cardType=github&theme=blueberry&fontFamily=Antic&preferLogin=true)](https://git.io/awesome-stats-card)
 
 ---
-## 📊 GitHub Stats
+
+##  Weekly Activity
 
 <p align="center">
-  <a href="https://git.io/awesome-stats-card">
-    <img
-      src="https://awesome-github-stats.azurewebsites.net/user-stats/mennih?cardType=level&theme=gruvbox&preferLogin=true"
-      alt="GitHub Stats"
-    />
-  </a>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=medyenn&theme=react-dark&hide_border=false&bg_color=0D1117&color=14B8A6&line=00E5FF&point=C084FC&area=true&area_color=00E5FF" alt="Weekly Contribution Graph" />
+  <small> Weekly Activity </small>
 </p>
 
 ---
 
-## 📈 Weekly Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medyenn&theme=react-dark&hide_border=false&bg_color=282828&color=FABD2F&line=D3869B&point=FF79C6" alt="Weekly Contribution Graph" />
-  <br>
-  <small>📆 Weekly Activity </small>
-</p>
-
----
-
-## 🎓 Education
+##  Education
 
 <div align="center">
 
@@ -88,7 +82,7 @@
 
 ---
 
-## 🎯 Motto
+##  Motto
 
 <div align="center">
 
@@ -98,7 +92,7 @@
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
