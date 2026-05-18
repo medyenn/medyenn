@@ -18,6 +18,7 @@
 </div>
 
 <br><br>
+<div align="center">
 
 ## 👨‍💻 About Me
 
@@ -27,6 +28,7 @@
 - 🚀 Currently building **LLM** and terminal-based projects
 
 
+<div align="center">
 
 ## 🛠️ Tech Stack
 
@@ -34,6 +36,7 @@
   <img src="https://skillicons.dev/icons?i=python,c,cpp,linux,bash,git,github,vscode,docker,flask" />
 </div>
 
+<div align="center">
 
 ## 📚 Currently Learning
 
@@ -45,12 +48,14 @@
 <img src="https://img.shields.io/badge/System_Programming-83A598?style=for-the-badge" />
 
 
+<div align="center">
 
  ## Stats
 <div align="center">
   
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/medyenn?cardType=github&theme=blueberry&fontFamily=Antic&preferLogin=true)](https://git.io/awesome-stats-card)
 
+<div align="center">
 
 ##  Monthly Activity
 
@@ -60,6 +65,7 @@
   <small> Last 30 days Activity </small>
 </p>
 
+<div align="center">
 
 ##  Education
 
@@ -75,6 +81,7 @@
 
 </div>
 
+<div align="center">
 
 ##  Motto
 
@@ -84,6 +91,7 @@
 
 </div>
 
+<div align="center">
 
 ##  Let's Connect
 
