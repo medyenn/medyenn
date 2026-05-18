@@ -24,7 +24,6 @@
 - 🎓 Student at **1337 School** (part of the **42 Network**)
 - 💻 Passionate about **Python, C, and Artificial Intelligence**
 - 🧠 Focused on **algorithms**, **clean code**, and software engineering
-- 🌍 Based in **Casablanca, Morocco 🇲🇦**
 - 🚀 Currently building **LLM** and terminal-based projects
 
 ---
