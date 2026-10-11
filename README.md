@@ -4,7 +4,7 @@
 
 <br><br>
 
-[![mennih's 42 stats](https://badge.mediaplus.ma/binary/mennih)](https://github.com/oakoudad/badge42)
+<!-- [![mennih's 42 stats](https://badge.mediaplus.ma/binary/mennih)](https://github.com/oakoudad/badge42)-->
 
 <br><br>
 
