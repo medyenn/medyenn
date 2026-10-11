@@ -23,7 +23,7 @@
 
 <div align="center">
 <ul style="text-align:left; display:inline-block;">
-  🎓 Data Science in Aviation
+  🎓 FDM
 
 </div>
 
