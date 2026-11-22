@@ -4,10 +4,10 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/your-linkedin-profile">
+<a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/enn-md)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/mennih">
+<a href="https://github.com/medyenn">
   <img src="https://img.shields.io/badge/GitHub-medyenn-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
