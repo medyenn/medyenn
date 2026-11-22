@@ -4,7 +4,7 @@
 
 <br><br>
 
-<a href="[https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/enn-md)">
+<a href="https://www.linkedin.com/in/enn-md">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/medyenn">
