@@ -4,10 +4,6 @@
 
 <br><br>
 
-<!-- [![mennih's 42 stats](https://badge.mediaplus.ma/binary/mennih)](https://github.com/oakoudad/badge42)-->
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/your-linkedin-profile">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
@@ -49,15 +45,6 @@
 <img src="https://img.shields.io/badge/Algorithms-FABD2F?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LLMs-D3869B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/System_Programming-83A598?style=for-the-badge" />
-
-<br><br>
-
-<div align="center">
-
- ## Stats
-<div align="center">
-  
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/medyenn?cardType=github&theme=blueberry&fontFamily=Antic&preferLogin=true)](https://git.io/awesome-stats-card)
 
 <br><br>
 
